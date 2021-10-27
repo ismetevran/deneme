@@ -1,0 +1,12 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+.endpart{
+    margin-top: 40px;
+}
+.image{
+    margin-top: 50px;
+}
